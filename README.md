@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" />
+  <img src="https://i.ibb.co/CKMRwcXM/pngtree-gym-with-many-weights-in-dark-lighting-image-2549101.jpg" alt="pngtree gym with many weights in dark lighting image 2549101" border="0">
   <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
 </p>
 
